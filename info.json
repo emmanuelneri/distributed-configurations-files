@@ -1,4 +1,4 @@
 {
-  "app": "${spring.application.name}",
+  "app": "${url}",
   "user": "${spring.security.user.name}"
 }
